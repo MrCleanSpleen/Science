@@ -2,4 +2,4 @@
 import gravity as g
 
 if __name__ == "__main__":
-    g.
+    g.solve_universalgravity()
