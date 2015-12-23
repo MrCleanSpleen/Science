@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 import gravity as g
 import force as f
+import motion as m
+
+
 if __name__ == "__main__":
-    f.force()
+    m.solve_kinetic()
